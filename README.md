@@ -1,5 +1,5 @@
 # Docker-Sonarr
 Slightly tweaked linuxserver/Sonarr container
 
-just links /media & /downloads for Sabnzb + uTorrent
+just links /data & /downloads for Sabnzb + uTorrent
 
